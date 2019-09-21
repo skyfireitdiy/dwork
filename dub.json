@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"skyfire"
+	],
+	"copyright": "Copyright © 2019, skyfire",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "dwork"
+}
